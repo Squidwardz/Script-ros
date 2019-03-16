@@ -1,5 +1,5 @@
-# Script-ros
-RULES OF SURVIVAL
+
+
 
 if gg.BUILD > 14144 then gg.alert('PLEASE UPDATE YOU GAME GUARDIAN.. THE SCRIPT WILL NOT RUN ON OLD GAME GUARDIAN VERSION.. SORRY\nDownload The Latest Game Guardian at http://gameguardian.net\n\nRegards,\n╔═══════════════════╗\n║																║\n║		 	 Script Prepared By :			║\n║			  ꜱQᴜɪᴅᴡᴀʀᴅ ꜱQᴜᴀᴅ	 		║\n║																║ \n╚═══════════════════')
 os.exit()
